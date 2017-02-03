@@ -36,6 +36,8 @@ module.exports = {
         process: true,
         console: true,
         Promise: true,
+        __dirname: true,
+        __filename: true,
 
         setInterval: true,
         clearInterval: true,
