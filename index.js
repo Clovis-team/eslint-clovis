@@ -45,6 +45,10 @@ module.exports = {
         // Mocha
         it: true,
         describe: true,
+        before: true,
+        after: true,
+        beforeEach: true,
+        afterEach: true,
     },
 
     parser: 'babel-eslint',
