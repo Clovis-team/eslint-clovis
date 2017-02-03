@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-clovis",
+  "version": "1.0.0",
+  "description": "JavaScript the Clovis way",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint -c index.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motet-a/eslint-config-clovis.git"
+  },
+  "author": "Antoine Motet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motet-a/eslint-config-clovis/issues"
+  },
+  "homepage": "https://github.com/motet-a/eslint-config-clovis#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.14.1"
+  }
+}
