@@ -1,5 +1,5 @@
 {
-  "name": "eslint-clovis",
+  "name": "eslint-config-clovis-app",
   "version": "2.0.0",
   "description": "JavaScript the Clovis way",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Clovis-team/eslint-clovis"
+    "url": "git+https://github.com/Clovis-team/eslint-config-clovis-app"
   },
   "author": "Clovis Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Clovis-team/eslint-clovis/issues"
+    "url": "https://github.com/Clovis-team/eslint-config-clovis-app/issues"
   },
-  "homepage": "https://github.com/Clovis-team/eslint-clovis#readme",
+  "homepage": "https://github.com/Clovis-team/eslint-config-clovis-app#readme",
   "peerDependencies": {
     "eslint": ">= 3"
   },
