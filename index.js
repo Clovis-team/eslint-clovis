@@ -18,10 +18,6 @@ const rules = {
             allowTemplateLiterals: false,
         },
     ],
-
-    semi: [
-        'error', 'never',
-    ],
 }
 
 
