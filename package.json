@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-clovis",
+  "name": "eslint-config-clovis-v2",
   "version": "1.0.2",
   "description": "JavaScript the Clovis way",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/motet-a/eslint-config-clovis.git"
   },
-  "author": "Antoine Motet",
+  "author": "Clovis Team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/motet-a/eslint-config-clovis/issues"
